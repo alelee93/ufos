@@ -10,7 +10,7 @@ To filter the table, the user must update the search criteria in the search form
 
 ### Filtered Table
 
-<img src="images/FilterSearch.png"/>
+<img src="images/FilterSearch.png">
 
 As an example, the table below is filtering for:
 
@@ -18,13 +18,13 @@ As an example, the table below is filtering for:
 - State: "ca"
 - Shape: "light"
 
-<img src="images/filteredTable.png"/>
+<img src="images/filteredTable.png">
 
 ## Removing table filters
 
 To unfilter the form, users can take out the filters they entered or click on "UFO Sightings" located on navbar (top left of the website).
 
-<img src="images/UFOSightings.png"/>
+<img src="images/UFOSightings.png">
 
 # Summary
 
