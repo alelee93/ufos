@@ -4,7 +4,27 @@ The purpose of this project is to create a dynamic table using JavaScript, HTML,
 
 # Results
 
-Describe to Dana how someone might use the new webpage by walking her through the process of using the search criteria. Use images of your webpage during the filtering process to support your explanation.
+## Filtering the Table
+
+To filter the table, the user must update the search criteria in the search form located on the bottom left of the webite. After typing the desired filter, the user must click anywhere outside the filter field to activate the filter. Users can filter the table by multiple criteria at the same time.
+
+### Filtered Table
+
+<img src="images/FilterSearch.png"/>
+
+As an example, the table below is filtering for:
+
+- City: "el cajon"
+- State: "ca"
+- Shape: "light"
+
+<img src="images/filteredTable.png"/>
+
+## Removing table filters
+
+To unfilter the form, users can take out the filters they entered or click on "UFO Sightings" located on navbar (top left of the website).
+
+<img src="images/UFOSightings.png"/>
 
 # Summary
 
