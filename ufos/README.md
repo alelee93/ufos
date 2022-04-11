@@ -28,4 +28,7 @@ To unfilter the form, users can take out the filters they entered or click on "U
 
 # Summary
 
-In a summary statement, describe one drawback of this new design and two recommendations for further development.
+One drawback of the design of the page is that the filter is case sensitive. Two recommendation for further development include:
+
+- adding a button to the filter
+- Adding a message saying "Oops, no entries found with selected filters"
